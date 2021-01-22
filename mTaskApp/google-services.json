@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158391461960",
+    "firebase_url": "https://sepm-group6-mtaskapp.firebaseio.com",
+    "project_id": "sepm-group6-mtaskapp",
+    "storage_bucket": "sepm-group6-mtaskapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158391461960:android:5367e4f89e6d9e9ff1d07d",
+        "android_client_info": {
+          "package_name": "com.SEPMG6.mTaskApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158391461960-jd6lj3gja2oqbgs60op147okc6fe3c0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGf24Cf7E6fSfw4GaTWkPMVWTzMaulyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158391461960-jd6lj3gja2oqbgs60op147okc6fe3c0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

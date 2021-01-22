@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "mTask",
+    "slug": "SEPMG6-mTaskApp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/official_icon.png",
+    "facebookScheme": "fb3153512351365949",
+    "splash": {
+      "image": "./assets/splash_logo2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.SEPMG6.mTaskApp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.SEPMG6.mTaskApp",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json"
+    },
+    "notification": {
+      "icon": "./assets/official_icon.png"    }
+  }
+  
+}
